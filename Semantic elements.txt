@@ -1,0 +1,5 @@
+HTML 110 - Assignment 1
+Dane Seaberg
+10/14/20
+
+The semantic elements introduced in HTML5 are new elements intended to improve the maintainability and readability of HTML documents, as well as enhance functionality. Instead of using a large number of div tags and relying on various attributes, like id and class, to understand what part of the page the element is, semantic elements are more self-descriptive by nature of their name. These elements also allow for new functionality as well since the browser can know specifically what function an element serves, such as video and progress elements.
